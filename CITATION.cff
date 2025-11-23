@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "López Lorenzo"
   given-names: "Alejandro"
-orcid: https:"//orcid.org/my-orcid?orcid=0000-0002-3439-6272"
+orcid: "https://orcid.org/my-orcid?orcid=0000-0002-3439-6272"
 title:"Alejandro-Lopez-Processamentos-TCC2: V1"
 version: 0.1.0
 doi: 10.5281/zenodo.17686813
