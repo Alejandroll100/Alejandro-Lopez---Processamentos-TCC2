@@ -4,11 +4,8 @@
 
 ---
 
-Neste repositorio temos três pastas, com arquivos .ipynb.
+Neste repositorio encontram-se os códigos necesários para replicar todo o processo mostrado arquivo TCC2.
 
-
----
-## Resultados:
 
 
 
