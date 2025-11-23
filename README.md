@@ -1,4 +1,6 @@
 ﻿# Alejandro-Lopez---Processamentos-TCC2
 
-Add image TCC2-Alejandro
+![Imagem TCC2](TCC2-Alejandro.jpg)
+
+
 
