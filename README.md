@@ -13,11 +13,16 @@ A amostras de treinamento em formato jpg estão contindas na pasta ZIP chamada "
 
 ---
 Detecção final na área de Leticia, AM.
+Pesos usados para inferência encontram-se
+na pasta "Pesos".
 ---
 ![Imagem TCC2](Imagens/final_ex.jpg)
 
 ---
+
+
 [![DOI](https://zenodo.org/badge/1102287012.svg)](https://doi.org/10.5281/zenodo.17686812)
+
 
 
 
