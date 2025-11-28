@@ -11,7 +11,7 @@ Universidade de Brasilia , FCTE <sup>1</sup> .
 
 
 <p align="center">
-  <img src="assets/tradeoff_turbo.svg" width=90%> <br>
+  <img ![Imagem TCC2](Imagens/TCC2-Alejandro.jpg)" width=90%> <br>
   Comparison with popular methods in terms of latency-accuracy (left) and FLOPs-accuracy (right) trade-offs
 </p>
 
@@ -41,6 +41,7 @@ na pasta "Pesos".
 
 
 [![DOI](https://zenodo.org/badge/1102287012.svg)](https://doi.org/10.5281/zenodo.17686812)
+
 
 
 
