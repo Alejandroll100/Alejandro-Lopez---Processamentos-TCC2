@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>YOLOv12</h1>
+  <h1>Trabalho de Conclusão de Curso</h1>
   <h3>Detecção de embarcações no Rio Amazonas por meio de Radar de Abertura Sintética</h3>
 
   <p>
@@ -32,6 +32,7 @@ Podem ser encontrados na pasta "codigos".
 ![Imagem TCC2](Imagens/amostras_robo.jpg)
 
 ![Imagem TCC2](Imagens/final_ex.jpg)
+
 
 
 
